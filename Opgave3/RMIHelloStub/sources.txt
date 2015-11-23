@@ -1,0 +1,4 @@
+C:\Users\Vasco\Developing\School\4.2Week1\Opgave3\RMIHelloStub\src\nl\hanze\web\rmi\Hello.java
+C:\Users\Vasco\Developing\School\4.2Week1\Opgave3\RMIHelloStub\src\nl\hanze\web\rmi\HelloClient.java
+C:\Users\Vasco\Developing\School\4.2Week1\Opgave3\RMIHelloStub\src\nl\hanze\web\rmi\HelloImpl.java
+C:\Users\Vasco\Developing\School\4.2Week1\Opgave3\RMIHelloStub\src\nl\hanze\web\rmi\HelloServer.java
